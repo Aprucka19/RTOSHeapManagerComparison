@@ -1,0 +1,21 @@
+// Workspace settings
+{
+    // The following will hide the js and map files in the editor
+    "files.exclude": {
+        "**/*.d": true,
+        "**/*.o": true,
+        "**/*.scvd": true,
+        "**/*.dep": true,
+        "**/*.def": true,
+        "**/*.uv*": true,
+        "**/*.axf": true,
+        "**/*.htm": true,
+        "**/*.lnp": true,
+        "**/*.lst": true
+    },
+    "files.associations": {
+        "string.h": "c",
+        "heapworstfit.h": "c"
+    }
+}
+
