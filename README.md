@@ -13,13 +13,13 @@ This project is an extension of Lab 5 from the RTOS course, and it has been stru
 
 ### Components
 
-- `HeapTester.c`: The main launchpoint for testing
-- `heap.c`: Acts as a switchpoint to each different heap implementation.
-- `heapfirstfit.c`: First Fit heap management.
-- `heapbestfit.c`: Best Fit heap management.
-- `heapworstfit.c`: Worst Fit heap management.
-- `heapknuth.c`: Knuth's Buddy algorithm heap management.
-- `other OS code`: OS.c and other functions are included to support the heap testing. These were developed in labs.
+- `HeapTesterMain/HeapTester.c`: The main launchpoint for testing
+- `RTOS_Labs_common/heap.c`: Acts as a switchpoint to each different heap implementation.
+- `RTOS_Labs_common/heapfirstfit.c`: First Fit heap management.
+- `RTOS_Labs_common/heapbestfit.c`: Best Fit heap management.
+- `RTOS_Labs_common/heapworstfit.c`: Worst Fit heap management.
+- `RTOS_Labs_common/heapknuth.c`: Knuth's Buddy algorithm heap management.
+- `other OS code`: OS.c and other functions are included to support the heap testing. These were developed in labs, or provided by valvanoware. 
 
 ### Functionality
 
