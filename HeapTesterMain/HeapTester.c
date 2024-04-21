@@ -90,7 +90,8 @@ void PortD_Init(void){
 
 
 //*****************Heap Tester*************************
-// Heap test, allocate and deallocate memory
+// Heap test, allocate and deallocate memory for
+// each heap type
 void heapError(const char* errtype,const char* v,uint32_t n){
   printf("%s",errtype);
   printf(" heap error %s%u",v,n);
