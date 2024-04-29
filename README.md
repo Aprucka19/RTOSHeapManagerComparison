@@ -8,6 +8,7 @@ This project implements four different heap managers: First Fit, Best Fit, Worst
 - **Date:** April 20, 2024
 - **Course:** RTOS Final Project (EE445M/EE380L.6)
 - **Instructors:** Andreas Gerstlauer (gerstl@ece.utexas.edu)
+- **Git Repository:** https://github.com/Aprucka19/RTOSHeapManagerComparison
 
 This project is an extension of Lab 5 from the RTOS course, and it has been structured to allow for easy testing and comparison of different memory management implementations.
 
